@@ -25,8 +25,8 @@ Open your terminal or command prompt and run: pip install PyPDF2
 Step 2: Prepare Your PDF Files
 
     •   Place all your PDF files in the same directory as the merge_pdfs.py script.
-	•	Ensure they are named correctly, e.g., page1.pdf, page2.pdf, etc.
-	•	Alternatively, provide full paths to the files if they are located elsewhere.
+    •   Ensure they are named correctly, e.g., page1.pdf, page2.pdf, etc.
+    •   Alternatively, provide full paths to the files if they are located elsewhere.
 Step 3: Edit the Script to Reflect Your PDF Files
 
     •   Modify the pdf_files list in the script to match your actual PDF filenames and the desired order:

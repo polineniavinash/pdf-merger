@@ -40,7 +40,7 @@ if __name__ == "__main__":
     pdf_files = ['/Users/avinash/Desktop/merge-files/Page-1.pdf', '/Users/avinash/Desktop/merge-files/Page-2.pdf', '/Users/avinash/Desktop/merge-files/Page-3.pdf', '/Users/avinash/Desktop/merge-files/Page-4.pdf', '/Users/avinash/Desktop/merge-files/Page-5.pdf']
 
     # Output path for the merged PDF
-    output_path = '/Users/avinash/Desktop/merge-files/merge.pdf'
+    output_path = '/Users/avinash/Desktop/merge-files/merged_output.pdf'
 
     # Merge the PDFs
     merge_pdfs(pdf_files, output_path)
